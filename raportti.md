@@ -116,7 +116,7 @@ Nyt tiedosto _markdowntest.md_ pitäisi näkyä githubin säiliössä _harjoitus
 
 c) Aja oma Salt-tila suoraa git-varastosta. Voit joko tehdä tilan alusta lähtien itse tai forkata <a href="https://github.com/terokarvinen/sirotin">sirottimen</a>.
 
-Olen tehnyt aikaisemmin jo Apachen asennuksen salt-tilan githubiin, joten päätin ajaa sen. Tässä _schooltest_-kansiossa on _high.sh_-tiedosto, jossa on seuraavat rivit:
+Olen tehnyt aikaisemmin jo Apachen asennuksen salt-tilan githubiin, https://github.com/KatriL/schooltest, joten päätin ajaa sen. Tässä _schooltest_-kansiossa on _high.sh_-tiedosto, jossa on seuraavat rivit:
 
 ![alt text](https://katrilaulajainen.files.wordpress.com/2018/05/highstate-github-e1525293023639.png "highstategithub")
 
